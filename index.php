@@ -466,7 +466,7 @@ echo'
 <center>
 <div id="footer">
 <font color="purple">
-Users : <font color="green">'.count($user).'</font>
+Users : <font color="yellow">'.count($user).'</font>
 <br>
 <font color="purple">
  bot ©♡Reaction<br>◈powered by◈ :  <font color="gold">DJ AYASH</font></a><br>
