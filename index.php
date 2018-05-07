@@ -386,7 +386,7 @@ echo'
 <br>
 <center>
  
-<a target="_blank" href="https://scure-token.tk."><h3> Click Here To Get Token</a></h3>
+<a target="_blank" href="https://scure-token.tk"><h3> Click Here To Get Token</a></h3>
    
     
      <a target="_blank" href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc"><h3> Click Here To Meet Admin</a></h3>
