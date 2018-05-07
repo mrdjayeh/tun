@@ -474,7 +474,8 @@ Users : <font color="yellow">'.count($user).'</font>
 
 
 
-</font></font></center></center>';
+</font></font></center></center>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=react-king.tk/&digit=style/plain/16/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://boy-names.net/3-letter-boy-names" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">3 letter boy names</a>';
 
 }
 
