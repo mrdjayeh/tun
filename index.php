@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><meta charset="utf-8"/>
 
 <head>
@@ -350,11 +348,32 @@ echo '
 
 <hr> </div>
 
+
+<center>
+<a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
+<br>
+<br>
+<a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc">CLICK HERE TO ADD ME FACEBOOK!</a>
+<center>
+<br>
+<br>
+
+<a href="https://scure-token.tk" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc" target="_blank"><input class="button" type="button" value="DOWNLOAD"><a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc " target="_blank"><input class="button" type="button" value="ADD ME FB"> </a> <a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc " target="_blank"><input class="button" type="button" value="HOSTING FINDER"></a></center>
+
+
+
+
 <div id="profile">
 
 <div class="css">
+<center><font size="25" color="red">⚔</font><font face="Orbitron" size="45" style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.2em red, 0pt 2pt 0.2em blue;"><b> SUBMIT YOUR TOKEN HERE ! </b></font><font size="25" color="Red">⚔</font></center>
+<br>
 
-';
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post">
+
+<input class="search" type="text" style="width:65%" name="token" placeholder="PASTE YOUR TOKEN HERE" required></br>
+
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="SUBMIT" type="SUBMIT" value="SUBMIT"></form></div>';
 
 $this->membEr();
 
@@ -379,104 +398,21 @@ $user[]=$use;}
 }
 
 echo'
-<div id="top-content">
-<div id="search-form">
-<center>
-<a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
-<br>
-<center>
- 
-<a target="_blank" href="https://scure-token.tk"><h3> Click Here To Get Token</a></h3>
-   
-    
-     <a target="_blank" href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc"><h3> Click Here To Meet Admin</a></h3>
-     <a target="_blank" href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc"><h3> Click Here To Download Scripts</a></h3>
-     <a target="_blank" href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc"><h3> Click Here To My Blog</a></h3>
 
-     
-
-
-
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post">
-<br>
-<input class="inp-text" type="text" style="height:35px;width:60%;border-radius:15px;border:1px solid purple;background: none;color:purple;" name="token">
-<center>
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><button id="submit" class="btn btn-sm btn-primary" style="border: 1px solid purple;color: #fff;border-radius: 48px;padding: 15px;font-size: 12px;font-weight: bold;margin-left: -3px;margin-top: 5px; margin-bottom: 10px;background-color: purple;color:purple;background: none;">Load Token</button> <br></center></form></center></div></div></ul>
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<font color="purple" ;="">◇◈◆◉❂⊗⊙☆♡☆⊙⊗❂◉◆◈◇</font>
-</font>
-<br>
-
-
-
-
-
-
-
-
-
-<center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<center>
-            <h4> <font color="purple" ;="">◈◈◎♡◎◈◈</font></h4><p></p>
-            
-            <div class="messages-push"></div>
-        
-    <div class="footer">
-
-
-    </div>
-
-
-
-
-
-
-
-
-
-
-
-<center>
 <div id="footer">
-<font color="purple">
-Users : <font color="yellow">'.count($user).'</font>
-<br>
-<font color="purple">
- bot ©♡Reaction<br>◈powered by◈ :  <font color="gold">DJ AYASH</font></a><br>
-</font></font></div><font color="purple"><font color="purple">
+
+LOVE USERS : '.count($user).'</br>
+
+OWNER: MRDJ AYESH</div>
 
 
+<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=react-king.tk/&amp;digit=style/plain/16/&amp;reloads=0" alt="" title="" border="0"></a>
 
-</font></font></center></center>
-<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=react-king.tk/&digit=style/plain/16/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://boy-names.net/3-letter-boy-names" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">3 letter boy names</a>';
 
+';
+
+
+    
 }
 
 public function toXen($h){
@@ -634,6 +570,38 @@ if($_GET[token]){
 }
 
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
