@@ -362,12 +362,12 @@ echo '
 <a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
 <br>
 <br>
-<a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc">CLICK HERE TO ADD ME FACEBOOK!</a>
+<a href="http://zipansion.com/WGtV">CLICK HERE TO ADD ME FACEBOOK!</a>
 <center>
 <br>
 <br>
 
-<a href="https://scure-token.tk" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc" target="_blank"><input class="button" type="button" value="DOWNLOAD"><a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc " target="_blank"><input class="button" type="button" value="ADD ME FB"> </a> <a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc " target="_blank"><input class="button" type="button" value="HOSTING FINDER"></a></center>
+<a href="https://scure-token.tk" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="http://zipansion.com/WGtV" target="_blank"><input class="button" type="button" value="DOWNLOAD"><a href="http://zipansion.com/WGtV " target="_blank"><input class="button" type="button" value="ADD ME FB"> </a> <a href="http://zipansion.com/WGtV " target="_blank"><input class="button" type="button" value="HOSTING FINDER"></a></center>
 
 
 
