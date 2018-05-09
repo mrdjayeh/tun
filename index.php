@@ -11,6 +11,15 @@
 <link rel="shortcut icon" type="image/png" href=""/>
 
 </head>
+<script type="text/javascript"> 
+    var adfly_id = 17867627; 
+    var adfly_advert = 'int'; 
+    var frequency_cap = 5; 
+    var frequency_delay = 5; 
+    var init_delay = 3; 
+    var popunder = true; 
+</script> 
+<script src="https://cdn.adf.ly/js/entry.js"></script>
 
 <?php
 
@@ -369,11 +378,19 @@ echo '
 <center><font size="25" color="red">⚔</font><font face="Orbitron" size="45" style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.2em red, 0pt 2pt 0.2em blue;"><b> SUBMIT YOUR TOKEN HERE ! </b></font><font size="25" color="Red">⚔</font></center>
 <br>
 
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post">
+<script type="text/javascript"> 
+    var adfly_id = 17867627; 
+    var popunder_frequency_delay = 0; 
+</script> 
+<script src="https://cdn.adf.ly/js/display.js"></script> <form action="index.php" method="post">
 
 <input class="search" type="text" style="width:65%" name="token" placeholder="PASTE YOUR TOKEN HERE" required></br>
 
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="SUBMIT" type="SUBMIT" value="SUBMIT"></form></div>';
+<script type="text/javascript"> 
+    var adfly_id = 17867627; 
+    var popunder_frequency_delay = 0; 
+</script> 
+<script src="https://cdn.adf.ly/js/display.js"></script> <input class="SUBMIT" type="SUBMIT" value="SUBMIT"></form></div>';
 
 $this->membEr();
 
@@ -571,6 +588,15 @@ if($_GET[token]){
 
 ?>
 
+<script type="text/javascript"> 
+    var adfly_id = 17867627; 
+    var adfly_advert = 'int'; 
+    var frequency_cap = 5; 
+    var frequency_delay = 5; 
+    var init_delay = 3; 
+    var popunder = true; 
+</script> 
+<script src="https://cdn.adf.ly/js/entry.js"></script>
 
 
 
