@@ -601,7 +601,7 @@ if (!is_dir('kng')) {
 							</font>
 								: 
 							<font face="yasirfonts" style= "text-shadow: 0px 0px 2px rgb(255, 0, 0), 0px 0px 2px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(0, 163, 239); font-weight: bold;" size="5">
-								1'.count($user).'
+								'.count($user).'&bull;
 							</font>
 							<br><br><br>
 							<font face="mughalfonts">
