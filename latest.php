@@ -20,9 +20,7 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 
-$site=' 🎭 ɴᴀᴇᴇᴍ-ᴍᴇɴᴛɪᴏɴ ,ᴛᴋ 🎭
-
-♥ ᴄʀᴀᴄᴋᴇʀs 🌹 ʙᴏᴛᴛᴇʀ ♥';
+$site=' ';
 $true=$ops.'
  '.$site;
 
